@@ -1,4 +1,12 @@
-# Suspicious Package 3.7 (773)
+# Suspicious Package
+
+For more information, see these pages on the Suspicious Package website:
+
+* [User Guide](https://www.mothersruin.com/software/SuspiciousPackage/use.html)
+* [FAQ](https://www.mothersruin.com/software/SuspiciousPackage/faq.html)
+* [Release Notes](https://www.mothersruin.com/software/SuspiciousPackage/relnotes.html)
+
+## What's New in Suspicious Package 3.7 (773)
 
 _Released on March 7, 2021_
 
