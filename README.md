@@ -1,5 +1,7 @@
 # Suspicious Package
 
+This repository is a home for the Suspicious Package disk image download, available under **Releases**.
+
 For more information, see these pages on the Suspicious Package website:
 
 * [User Guide](https://www.mothersruin.com/software/SuspiciousPackage/use.html)
